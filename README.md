@@ -23,7 +23,7 @@
 - 원격 저장소의 주소를 복사한 다음 로컬 환경에 복제합니다.
 
 ```bash
-git clone "본인의 원격저장소 주소를 입력하시오"   #수정 필요
+git clone https://github.com/younghwangit/mulcamp-mini-project
 ```
 
 - 폴더 최상위 경로에서 가상환경을 설치합니다.
@@ -104,7 +104,6 @@ streamlit run app.py
 
 
 # 발표자료 PDF 
-- 공모전에서 입상한 발표자료 PDF는 아래와 같습니다.
   + [00발표자료_2024](portfolio.pdf)
 
 
