@@ -3,11 +3,10 @@
 - 이를 위해서 사용자에게 지역을 기준으로 거래금액 데이터 분석, 연도별 거래 건수 추이, 건물유형별 거래 데이터를 시각화하고 대시보드를 통해서 제공하고 있습니다.
 
 ## 팀원 소개
-- 나한울 팀장 : 깃허브 주소 공유
+- 나한울 팀장 : https://github.com/ghkstod/streamlit_minimi
 - 김영환 팀원 : https://github.com/younghwangit/mulcamp-mini-project
-- 양인선 팀원 : 깃허브 주소 공유
-- 이상훈 팀원 : 깃허브 주소 공유
-- 정소영 팀원 : 깃허브 주소 공유
+- 양인선 팀원 : https://github.com/swflora/miniproject_2024
+- 정소영 팀원 : https://github.com/Jsoyoung/miniproject-RealEstateSeoul
 - 황유진 팀원 : https://github.com/yellayujin/RealEstateTrackerSeoul
 
 
@@ -104,7 +103,7 @@ streamlit run app.py
 
 
 # 발표자료 PDF 
-  + [00발표자료_2024](portfolio.pdf)
+  + [발표자료](발표자료.pdf)
 
 
 ## License
