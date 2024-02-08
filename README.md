@@ -4,7 +4,7 @@
 
 ## 팀원 소개
 - 나한울 팀장 : 깃허브 주소 공유
-- 김영환 팀원 : https://github.com/younghwangit/RealEstateTrackerSeoul
+- 김영환 팀원 : https://github.com/younghwangit/mulcamp-mini-project
 - 양인선 팀원 : 깃허브 주소 공유
 - 이상훈 팀원 : 깃허브 주소 공유
 - 정소영 팀원 : 깃허브 주소 공유
@@ -55,7 +55,7 @@ streamlit run app.py
 
 # 데모페이지
 - Streamlit에서 구현한 Demo는 다음과 같습니다.
-  + https://_______.streamlit.app/
+  + https://mulcamp-mini-project-iz6rrepctpx4dxnbvwsnc9.streamlit.app/
 
  ## 주요 기능
  - 본 프로젝트에서 자체 개발 및 활용한 주요 메서드는 다음과 같습니다.
